@@ -1,0 +1,7 @@
+
+# Mac os
+.DS_Store
+
+# backup files
+*~
+
